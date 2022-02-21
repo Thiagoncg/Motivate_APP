@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "7ace5f8c",
         "name": "com.CriarGames.com.unity.template.mobile2D",
-        "processId": 21350,
+        "processId": 18096,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -11,37 +11,79 @@
         {
             "deviceId": "7ace5f8c",
             "name": "com.CriarGames.com.unity.template.mobile2D",
-            "processId": 8035,
-            "exited": false
-        },
-        {
-            "deviceId": "7ace5f8c",
-            "name": "com.CriarGames.com.unity.template.mobile2D",
-            "processId": 8800,
-            "exited": false
-        },
-        {
-            "deviceId": "7ace5f8c",
-            "name": "com.CriarGames.com.unity.template.mobile2D",
             "processId": 9297,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "7ace5f8c",
             "name": "com.CriarGames.com.unity.template.mobile2D",
             "processId": 18341,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "7ace5f8c",
             "name": "com.CriarGames.com.unity.template.mobile2D",
             "processId": 19107,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "7ace5f8c",
             "name": "com.CriarGames.com.unity.template.mobile2D",
             "processId": 21350,
+            "exited": true
+        },
+        {
+            "deviceId": "7ace5f8c",
+            "name": "com.CriarGames.com.unity.template.mobile2D",
+            "processId": 23516,
+            "exited": true
+        },
+        {
+            "deviceId": "7ace5f8c",
+            "name": "com.unity3d.mobileremote",
+            "processId": 23077,
+            "exited": false
+        },
+        {
+            "deviceId": "7ace5f8c",
+            "name": "com.CriarGames.com.unity.template.mobile2D",
+            "processId": 24385,
+            "exited": false
+        },
+        {
+            "deviceId": "7ace5f8c",
+            "name": "com.CriarGames.com.unity.template.mobile2D",
+            "processId": 27418,
+            "exited": false
+        },
+        {
+            "deviceId": "7ace5f8c",
+            "name": "com.CriarGames.com.unity.template.mobile2D",
+            "processId": 30768,
+            "exited": false
+        },
+        {
+            "deviceId": "7ace5f8c",
+            "name": "com.CriarGames.com.unity.template.mobile2D",
+            "processId": 31823,
+            "exited": false
+        },
+        {
+            "deviceId": "7ace5f8c",
+            "name": "com.CriarGames.com.unity.template.mobile2D",
+            "processId": 4759,
+            "exited": false
+        },
+        {
+            "deviceId": "7ace5f8c",
+            "name": "com.CriarGames.com.unity.template.mobile2D",
+            "processId": 6917,
+            "exited": false
+        },
+        {
+            "deviceId": "7ace5f8c",
+            "name": "com.CriarGames.com.unity.template.mobile2D",
+            "processId": 18096,
             "exited": false
         }
     ],

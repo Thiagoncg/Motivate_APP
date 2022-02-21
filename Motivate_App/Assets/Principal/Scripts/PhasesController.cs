@@ -6,19 +6,14 @@ using TMPro;
 public class PhasesController : MonoBehaviour
 {
     public Phases phases;
-
     public TextMeshProUGUI TextQuote;
-
     public TextMeshProUGUI TextAuthor;
-
-
-    void Start() 
+    void Start()
     {
         phases = new Phases();
 
         LoadPhasesBr();
     }
-
     public void LoadPhasesBr()
     {
         phases.LoadBr();
@@ -27,11 +22,6 @@ public class PhasesController : MonoBehaviour
 
         TextQuote.text = phases.PhasesList[index];
 
-        TextAuthor.text  = phases.author;
-
-
- 
+        TextAuthor.text = phases.author;
     }
-
-
 }

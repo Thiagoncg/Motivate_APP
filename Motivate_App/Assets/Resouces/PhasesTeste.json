@@ -15,5 +15,43 @@
             "Frase 10",
             "Frase 11",
             "Frase 12"
+        ],
+        "PhasesList1": [
+            {
+                "Frase": "Frase 1"
+            },
+            {
+                "Frase": "Frase 1"
+            },
+            {
+                "Frase": "Frase 1"
+            },
+            {
+                "Frase": "Frase 1"
+            },
+            {
+                "Frase": "Frase 1"
+            },
+            {
+                "Frase": "Frase 1"
+            },
+            {
+                "Frase": "Frase 1"
+            },
+            {
+                "Frase": "Frase 1"
+            },
+            {
+                "Frase": "Frase 1"
+            },
+            {
+                "Frase": "Frase 1"
+            },
+            {
+                "Frase": "Frase 1"
+            },
+            {
+                "Frase": "Frase 1"
+            }
         ]
     }

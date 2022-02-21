@@ -310,7 +310,7 @@ MonoBehaviour:
     id: 0
     quote: 
     author: 
-    ListaText: []
+    PhasesList: []
   TextQuote: {fileID: 1882831065}
   TextAuthor: {fileID: 1368164042}
 --- !u!4 &402186716
