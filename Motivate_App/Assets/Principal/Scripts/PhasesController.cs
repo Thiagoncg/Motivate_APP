@@ -22,6 +22,15 @@ public class PhasesController : MonoBehaviour
     public void LoadPhasesBr()
     {
         phases.LoadBr();
+
+        int index = Random.Range(0, phases.PhasesList.Count);
+
+        TextQuote.text = phases.PhasesList[index];
+
+        TextAuthor.text  = phases.author;
+
+
+ 
     }
 
 

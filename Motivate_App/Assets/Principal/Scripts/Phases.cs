@@ -10,7 +10,8 @@ public class Phases
     public int id;
     public string quote;
     public string author;
-    public List<string> ListaText = new List<string>();
+
+    public List<string> PhasesList = new List<string>();
     //private string path_Br = "Assets/Resouces/Phases_br.json";
     private string path_Br = "Assets/Resouces/PhasesTeste.json";
 
@@ -24,7 +25,8 @@ public class Phases
         id = pathBr.id;
         quote = pathBr.quote;
         author = pathBr.author;
-        ListaText = pathBr.ListaText;
+        PhasesList = pathBr.PhasesList;
+       
     }
 
 }

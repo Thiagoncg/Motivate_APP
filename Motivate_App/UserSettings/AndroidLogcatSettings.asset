@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "7ace5f8c",
         "name": "com.CriarGames.com.unity.template.mobile2D",
-        "processId": 9297,
+        "processId": 21350,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -24,6 +24,24 @@
             "deviceId": "7ace5f8c",
             "name": "com.CriarGames.com.unity.template.mobile2D",
             "processId": 9297,
+            "exited": false
+        },
+        {
+            "deviceId": "7ace5f8c",
+            "name": "com.CriarGames.com.unity.template.mobile2D",
+            "processId": 18341,
+            "exited": false
+        },
+        {
+            "deviceId": "7ace5f8c",
+            "name": "com.CriarGames.com.unity.template.mobile2D",
+            "processId": 19107,
+            "exited": false
+        },
+        {
+            "deviceId": "7ace5f8c",
+            "name": "com.CriarGames.com.unity.template.mobile2D",
+            "processId": 21350,
             "exited": false
         }
     ],

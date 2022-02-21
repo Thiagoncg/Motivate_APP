@@ -1,10 +1,19 @@
     {
         "id": 0,
         "quote": "Este é um teste de carregamento de frases.",
-        "author": "Winston Churchill",
-        "ListaText": [
-            "teste1",
-            "text2",
-            "teste1"
+        "author": "Este é um AutorText",
+        "PhasesList": [
+            "Frase 1",
+            "Frase 2",
+            "Frase 3",
+            "Frase 4",
+            "Frase 5",
+            "Frase 6",
+            "Frase 7",
+            "Frase 8",
+            "Frase 9",
+            "Frase 10",
+            "Frase 11",
+            "Frase 12"
         ]
     }
