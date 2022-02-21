@@ -1,0 +1,10 @@
+    {
+        "id": 0,
+        "quote": "Este é um teste de carregamento de frases.",
+        "author": "Winston Churchill",
+        "ListaText": [
+            "teste1",
+            "text2",
+            "teste1"
+        ]
+    }
