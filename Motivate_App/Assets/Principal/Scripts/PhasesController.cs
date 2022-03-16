@@ -18,10 +18,18 @@ public class PhasesController : MonoBehaviour
     {
         phases.LoadBr();
 
+
+
         int index = Random.Range(0, phases.PhasesList.Count);
 
-        TextQuote.text = phases.PhasesList[index];
+        //TextQuote.text = phases.PhasesList[50];
 
-        TextAuthor.text = phases.author;
+       // TextAuthor.text = phases.author;
+        
+        //Debug.Log("Scene 0 id:" + container.scenes[0].annoID);
+        //Debug.Log("Frase escolhida foi: " + phases.PhasesList[50]);
+        //Debug.Log(phases.PhasesList.Count);
+        Debug.Log(index);
+
     }
 }
